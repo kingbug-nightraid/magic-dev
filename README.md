@@ -1,1 +1,1 @@
-# magic-dev
+# magic-verify
